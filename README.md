@@ -32,7 +32,7 @@ An add-on that ties Doctor Who-style regeneration into the [Origins](https://mod
 
 ## Config
 
-Every feature is toggleable and tweakable in-game via a config — this requires [Mod Menu](https://modrinth.com/mod/modmenu).
+Every feature is toggleable and tweakable in-game via a config - this requires [Mod Menu](https://modrinth.com/mod/modmenu).
 
 ## Links
 
